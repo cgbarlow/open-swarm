@@ -1,6 +1,7 @@
 # Conversation
 ## Martin:
 Letter from Anthropic to Claude users:
+
 “What’s changing:
 
 Starting August 28, we're introducing weekly usage limits alongside our existing 5-hour limits:
