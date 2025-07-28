@@ -1,0 +1,1 @@
+npx claude-flow@alpha swarm “execute the mission brief in open-swarm/docs/prompt_revised-by-opus.md"
