@@ -75,6 +75,15 @@ open-swarm node start --availability 24/7
 - **[Technical Specification](./specs/technical-specification-v1.md)** - Comprehensive architecture blueprint
 
 ### 🔬 Research & Analysis
+
+#### 📋 Initial Context Research (Feature 2)
+- **[Initial Context Research](./research/initial-context/)** - Comprehensive ecosystem analysis (15 documents)
+  - **Projects Analysis**: [Lionagi](./research/initial-context/projects/lionagi-research.md) | [Claude-Flow](./research/initial-context/projects/claude-flow-research.md) | [Qwen3-1.7B](./research/initial-context/projects/qwen3-research.md) | [Ruv-FANN](./research/initial-context/projects/ruv-fann-research.md) | [Synaptic-Mesh](./research/initial-context/projects/synaptic-mesh-research.md)
+  - **Technical Analysis**: [Distributed AI Patterns](./research/initial-context/technical/distributed-ai-patterns.md) | [Orchestration Frameworks](./research/initial-context/technical/orchestration-frameworks.md) | [SLM Deployment](./research/initial-context/technical/slm-deployment-strategies.md)
+  - **Economic Analysis**: [Token Economy Models](./research/initial-context/economic/token-economy-models.md)
+  - **Strategic Insights**: [Key Insights](./research/initial-context/analysis/key-insights.md) | [Stakeholder Mapping](./research/initial-context/analysis/stakeholder-mapping.md) | [Research Findings](./research/initial-context/summary/research-findings.md)
+
+#### 🎯 Technical Approach Analysis (Feature 3) 
 - **[Technical Approaches](./research/technical-approaches/)** - Evaluation of 5 implementation strategies
   - [Pure Distributed Mesh](./research/technical-approaches/01-pure-distributed-mesh.md)
   - [Hybrid Orchestration](./research/technical-approaches/02-hybrid-orchestration.md)  
