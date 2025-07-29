@@ -1,1 +1,10 @@
-.swarm/
+# Swarm coordination memory files (temporary runtime data)
+.swarm/memory.db
+.swarm/memory.db-shm
+.swarm/memory.db-wal
+.swarm/coordination/
+.swarm/sessions/
+.swarm/logs/
+
+# Keep swarm config but ignore runtime data
+!.swarm/.gitkeep
