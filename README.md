@@ -34,7 +34,7 @@
 
 ---
 
-## ⚡ Quick Start
+## ⚡ Quick Start (proposed! 😅)
 
 ### For Developers
 ```bash
