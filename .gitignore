@@ -8,3 +8,8 @@
 
 # Keep swarm config but ignore runtime data
 !.swarm/.gitkeep
+
+.claude/
+.hive-mind/
+.roo
+memory/
