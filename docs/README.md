@@ -4,6 +4,6 @@
 
 **Step 2**: Draft initial prompt `prompt_first-draft.md`
 
-**Step 3**: Dsk claude opus to make the prompt better `prompt_revised-by-opus.md`
+**Step 3**: Ask claude opus to make the prompt better `prompt_revised-by-opus.md`
 
 **Step 4**: Enter this prompt into `claude-flow prompt_final.md`
